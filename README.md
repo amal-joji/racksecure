@@ -36,10 +36,7 @@ Fork, fix, and fight theft together! 💻💥
 🔹 1. Fork the Repo 🍴  
 🔹 2. Create a Feature Branch 🌿  
 🔹 3. Commit and Push 🚀  
-🔹 4. Open a Pull Request! 🔄  
+🔹 4. Open a Pull Request! 🔄
 
-# 📞 Contact Us!  
-📧 Email: mailto: saduvenkatesh141205@gmail.com
-📞 Phone: +91 8555015489  
+https://github.com/user-attachments/assets/e8a850d3-4fa7-4806-850f-0456a592c97d
 
-"Catch them before they catch you!" 😈🔍🔥  
